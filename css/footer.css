@@ -1,0 +1,22 @@
+/* .footer ul{ */
+  /* list-style: none; */
+  /* display: flex; */
+  /* justify-content: center; */
+/* } */
+.footer{
+  display: flex;
+  justify-content: center;
+padding: 20px;
+  background-color: #f5cac3;
+  margin-top: 20px;
+}
+.footer a {
+  color: #582f0e;
+  opacity: 0.5;
+  text-decoration: none;
+  font-size: 20px;
+  margin: 5px;
+}
+.footer a:hover{
+  color: #582f0e;
+}

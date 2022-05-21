@@ -1,0 +1,23 @@
+.container{
+  width: 500px;
+  margin: 0 auto;
+}
+.container h2{
+  text-align: center;
+  margin: 20px;
+}
+
+/* .container { */
+  /* width: 800px; */
+  /* margin: 0 auto; */
+  /* align-items: center; */
+/* } */
+/* .container h2{ */
+  /* text-align: center; */
+/* } */
+/*  */
+/* .container img{ */
+  /* width: 200px; */
+  /* height: 200px; */
+/* } */
+/*  */
